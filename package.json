@@ -1,0 +1,31 @@
+{
+  "name": "html-to-single-line-text",
+  "version": "0.0.1",
+  "description": "This is a utility for converting arbitrary HTML into a semantically equivalent single line of text.",
+  "main": "html-to-single-line-text.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NReilingh/html-to-single-line-text.git"
+  },
+  "keywords": [
+    "html",
+    "text",
+    "conversion",
+    "converter"
+  ],
+  "author": "Nick Reilingh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NReilingh/html-to-single-line-text/issues"
+  },
+  "homepage": "https://github.com/NReilingh/html-to-single-line-text#readme",
+  "dependencies": {
+    "htmlparser": "^1.7.7"
+  },
+  "devDependencies": {
+    "jest": "^24.7.1"
+  }
+}
